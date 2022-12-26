@@ -22,7 +22,7 @@ To get started:
 
 In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.**
 
-### Update theme manually
+## Update theme manually
 
 Run:
 
@@ -33,7 +33,7 @@ hugo mod tidy
 
 > This starter template has been configured with `v3` version of theme. Due to the limitation of Go module, once the `v4` or up version of theme is released, you need to update the theme manually. (Modifying `config/module.toml` file)
 
-### Deploy to another static page hostings
+## Deploy to another static page hostings
 
 If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
 
